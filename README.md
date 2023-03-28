@@ -44,4 +44,4 @@ THEN I am taken to the corresponding section of the README
 
 The following image shows the web application's appearance and functionality:
 
-![readme-generator](images/Screenshot 2023-03-28 at 5.36.50 PM.png)
+![readme-generator](images/readmedemo.png)
