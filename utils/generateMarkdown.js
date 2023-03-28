@@ -51,6 +51,12 @@ ${data.description}
   
 ## Table of Contents
 
+* [Installation](#Installation)
+* [Usage](#Usage)${data.license == 'None' ? '' : "\n* [License](#License)"}
+* [Contributing](#Contributing)
+* [Tests](#Tests)
+* [Questions](#Questions)
+
 ## Installation
 
 ${data.installation}
