@@ -32,7 +32,7 @@ function renderLicenseSection(license) {
     if ( license == "None") {
 return "";
     } else {
-return ` ## License
+return `## License
     
 ${license}`
     }
